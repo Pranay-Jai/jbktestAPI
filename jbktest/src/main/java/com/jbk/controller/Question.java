@@ -1,17 +1,10 @@
 package com.jbk.controller;
 
-import org.springframework.stereotype.Component;
-
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
-
-@Component
-@NoArgsConstructor
-@Getter
-@Setter
-@AllArgsConstructor
+//@Component
+//@NoArgsConstructor
+//@Getter
+//@Setter
+//@AllArgsConstructor
 public class Question {
 	String questionText;
 	String option1;
