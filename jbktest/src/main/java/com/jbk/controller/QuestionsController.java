@@ -15,7 +15,7 @@ public class QuestionsController {
 		question.setCorrectoption("1");
 		question.setExplanation("due to byte code...which is os independent");
 		
-		//as we used lombok we shouldn't be writing this.....
+		//as we used lombok we shouldn't be writing thhis.....
 		return question;
 		
 	}
