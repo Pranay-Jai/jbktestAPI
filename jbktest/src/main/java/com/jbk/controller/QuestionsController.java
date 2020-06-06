@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("testapi")
 public class QuestionsController {
 	
-	public Question getQuestions() {  // this is a just dumy code...
+	public Question getQuestions() {  // this is a just dumy code....
 		Question question=new Question();
 		question.setQuestionText("java is platform independent....");
 		question.setOption1("Yes");
