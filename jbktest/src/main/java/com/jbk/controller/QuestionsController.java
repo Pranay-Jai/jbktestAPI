@@ -13,7 +13,7 @@ public class QuestionsController {
 		question.setOption1("Yes");
 		question.setOption2("No");
 		question.setCorrectoption("1");
-		question.setExplanation("due to byte code...which is os independent");
+		question.setExplanation("due to byte code...which is os independent...");
 		return question;
 		
 	}
